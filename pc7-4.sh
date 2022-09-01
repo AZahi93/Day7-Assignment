@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-ARRAY=(10 20 30)
+ARRAY=(10 20 -30)
 
 sum=0
 
